@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DRAW YOUR OWN STICKERS :3</title>
+    <link rel="stylesheet" href="sticker.css">
+</head>
+<body>
+    <div class="container">
+        <h1>DRAW YOUR OWN STICKER</h1>
+        <p class = "subtitle">Draw anything you want to and turn it into a sticker!</p>
+        <div class ="toolbar">
+
+            <label>
+                COLOR<input type ="color" id="ColorPicker" value="#ff5c8a">
+            </label>
+            <label>
+                BRUSH<input type="range" id="brushSize" min="2" max="40" value="8">
+            </label>
+            <button id="ERASER">ERASER</button>
+            <button id="CLEAR">CLEAR</button>
+
+            <div class ="container">
+                <div class ="canvas-area">
+                    <canvas id = "drawingCanvas" width="600" height="450"></canvas>
+                </div>
+                <div class="buttons">
+                    <button id="stickerbutton">
+                        MAKE STICKER
+                    </button>
+
+                    <button id ="downloadbutton">
+                        DOWNLOAD STICKER
+                    </button>
+                </div>
+                <p class ="tip">Draw inside the box then click on 'MAKE STICKER' and then 'DOWNLOAD STICKER' so your art will be saved in your gallery, hope ya like it !<br><br><i>~KIMBO:3</i></p>
+            </div>
+            
+        </div>
+    </div>
+    <script src="sticker.js"></script>
+</body>
+</html>
