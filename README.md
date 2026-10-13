@@ -48,7 +48,8 @@ Then open the project folder and simply open **`index.html`** in your web browse
 * 💾 Save finished stickers
 * 🖼️ View your creations in a sticker gallery
 * 🌐 Works directly in the browser
-* ⚡ No installation or extra setup needed
+* ⚡ No installation or extra setup needed 
 
 ---
-*MADE WITH HTML, CSS, JAVASCRIPT AND A LIL CREATIVITY 💗*
+*MADE WITH HTML, CSS, JAVASCRIPT AND A LIL CREATIVITY 💗* 
+by KIMBO0 <3
