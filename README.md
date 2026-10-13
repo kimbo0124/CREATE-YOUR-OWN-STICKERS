@@ -51,4 +51,4 @@ Then open the project folder and simply open **`index.html`** in your web browse
 * ⚡ No installation or extra setup needed
 
 ---
-*MADE WITH HTML, CSS, JAVASCRIPT AND A LIL CREATIVITY 💗*
+*MADE WITH HTML, CSS, JAVASCRIPT AND A LIL CREATIVITY 💗* by KIMBO0
